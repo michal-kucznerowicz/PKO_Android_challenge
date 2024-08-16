@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PKO Android challenge</string>
+    <string name="votes">%d votes</string>
+    <string name="movie_backdrop_image">Movie backdrop image</string>
+    <string name="movie_poster_image">Movie poster image</string>
+    <string name="toggle_favorite">Toggle favorite</string>
+    <string name="error">An error has occurred</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="no_movies">No movies currently playing</string>
+</resources>
